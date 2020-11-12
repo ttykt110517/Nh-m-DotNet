@@ -1,0 +1,10 @@
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\bin\Debug\TeamDotnet.exe.config
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\bin\Debug\TeamDotnet.exe
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\bin\Debug\TeamDotnet.pdb
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\obj\Debug\TeamDotnet.csprojAssemblyReference.cache
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\obj\Debug\TeamDotnet.dangnhap.resources
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\obj\Debug\TeamDotnet.Properties.Resources.resources
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\obj\Debug\TeamDotnet.csproj.GenerateResource.cache
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\obj\Debug\TeamDotnet.csproj.CoreCompileInputs.cache
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\obj\Debug\TeamDotnet.exe
+D:\C#\Team\Nh-m-DotNet\Form\TeamDotnet\obj\Debug\TeamDotnet.pdb
