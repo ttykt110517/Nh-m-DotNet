@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace dangnhap
 {
-    public partial class Form2 : Form
+    public partial class Hethong : Form
     {
-        public Form2()
+        public Hethong()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace dangnhap
 {
-    partial class Form2
+    partial class Hethong
     {
         /// <summary>
         /// Required designer variable.
@@ -89,7 +89,7 @@
             this.label4.Text = "Thống Kê";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
-            // Form2
+            // Hethong
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -99,9 +99,9 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "Hethong";
+            this.Text = "Hệ Thống";
             this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
