@@ -10,3 +10,4 @@ D:\C#\Team\Nh-m-DotNet\Form\dangnhap\obj\Debug\Taoform.csproj.GenerateResource.c
 D:\C#\Team\Nh-m-DotNet\Form\dangnhap\obj\Debug\Taoform.csproj.CoreCompileInputs.cache
 D:\C#\Team\Nh-m-DotNet\Form\dangnhap\obj\Debug\dangnhap.exe
 D:\C#\Team\Nh-m-DotNet\Form\dangnhap\obj\Debug\dangnhap.pdb
+D:\C#\Team\Nh-m-DotNet\Form\dangnhap\obj\Debug\dangnhap.Nhanvien.resources
