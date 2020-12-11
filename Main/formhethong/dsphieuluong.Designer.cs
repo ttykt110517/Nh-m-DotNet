@@ -33,9 +33,9 @@ namespace formhethong
             this.label1 = new System.Windows.Forms.Label();
             this.cbthangluong = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btthem = new System.Windows.Forms.Button();
+            this.btsua = new System.Windows.Forms.Button();
+            this.btxoa = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvdspl)).BeginInit();
             this.SuspendLayout();
             // 
@@ -47,7 +47,7 @@ namespace formhethong
             this.dgvdspl.Name = "dgvdspl";
             this.dgvdspl.RowHeadersWidth = 51;
             this.dgvdspl.RowTemplate.Height = 24;
-            this.dgvdspl.Size = new System.Drawing.Size(1297, 312);
+            this.dgvdspl.Size = new System.Drawing.Size(1386, 312);
             this.dgvdspl.TabIndex = 0;
             // 
             // label1
@@ -55,7 +55,7 @@ namespace formhethong
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.DeepPink;
-            this.label1.Location = new System.Drawing.Point(488, 34);
+            this.label1.Location = new System.Drawing.Point(512, 33);
             this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(407, 45);
@@ -80,45 +80,45 @@ namespace formhethong
             this.label2.TabIndex = 3;
             this.label2.Text = "Tháng lương";
             // 
-            // button3
+            // btthem
             // 
-            this.button3.ForeColor = System.Drawing.Color.Crimson;
-            this.button3.Location = new System.Drawing.Point(118, 525);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(98, 41);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "Thêm";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.btthem.ForeColor = System.Drawing.Color.Crimson;
+            this.btthem.Location = new System.Drawing.Point(156, 524);
+            this.btthem.Name = "btthem";
+            this.btthem.Size = new System.Drawing.Size(98, 41);
+            this.btthem.TabIndex = 6;
+            this.btthem.Text = "Thêm";
+            this.btthem.UseVisualStyleBackColor = true;
+            this.btthem.Click += new System.EventHandler(this.btthem_Click);
             // 
-            // button1
+            // btsua
             // 
-            this.button1.ForeColor = System.Drawing.Color.Crimson;
-            this.button1.Location = new System.Drawing.Point(1124, 525);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(98, 41);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Sửa";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btsua.ForeColor = System.Drawing.Color.Crimson;
+            this.btsua.Location = new System.Drawing.Point(1162, 524);
+            this.btsua.Name = "btsua";
+            this.btsua.Size = new System.Drawing.Size(98, 41);
+            this.btsua.TabIndex = 7;
+            this.btsua.Text = "Sửa";
+            this.btsua.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btxoa
             // 
-            this.button2.ForeColor = System.Drawing.Color.Crimson;
-            this.button2.Location = new System.Drawing.Point(630, 525);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(98, 41);
-            this.button2.TabIndex = 8;
-            this.button2.Text = "Xoá";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btxoa.ForeColor = System.Drawing.Color.Crimson;
+            this.btxoa.Location = new System.Drawing.Point(668, 524);
+            this.btxoa.Name = "btxoa";
+            this.btxoa.Size = new System.Drawing.Size(98, 41);
+            this.btxoa.TabIndex = 8;
+            this.btxoa.Text = "Xoá";
+            this.btxoa.UseVisualStyleBackColor = true;
             // 
             // dsphieuluong
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1338, 599);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.button3);
+            this.ClientSize = new System.Drawing.Size(1417, 599);
+            this.Controls.Add(this.btxoa);
+            this.Controls.Add(this.btsua);
+            this.Controls.Add(this.btthem);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cbthangluong);
             this.Controls.Add(this.label1);
@@ -126,6 +126,7 @@ namespace formhethong
             this.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "dsphieuluong";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "danhsachluong";
             this.Load += new System.EventHandler(this.danhsachluong_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvdspl)).EndInit();
@@ -140,8 +141,8 @@ namespace formhethong
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox cbthangluong;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btthem;
+        private System.Windows.Forms.Button btsua;
+        private System.Windows.Forms.Button btxoa;
     }
 }

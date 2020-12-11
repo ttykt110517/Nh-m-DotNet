@@ -93,3 +93,5 @@ create table ChiTietHoaDon(
 	constraint fk_chitiethoadon_mahd foreign key (MaHD) references HoaDon(MaHD)
 )
 select MAX(CAST(RIGHT(MaNV,3) as int)) from NhanVien
+
+select * from PhieuLuong
