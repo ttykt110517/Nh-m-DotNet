@@ -7,19 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data.SqlClient;
+
 namespace formhethong
 {
-    public partial class themnhanvien : Form
+    public partial class themphieuluong : Form
     {
-        public themnhanvien()
+        public themphieuluong()
         {
             InitializeComponent();
-        }
-
-        private void btthemnv_Click(object sender, EventArgs e)
-        {
-            
         }
     }
 }

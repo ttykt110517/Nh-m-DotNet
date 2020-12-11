@@ -23,5 +23,12 @@ namespace formhethong
             ds.MdiParent = this;
             ds.Show();
         }
+
+        private void tinhluongToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            dsphieuluong luong = new dsphieuluong();
+            luong.MdiParent = this.MdiParent;
+            luong.Show();
+        }
     }
 }
