@@ -46,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connection.cs" />
+    <Compile Include="themnhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themnhanvien.Designer.cs">
+      <DependentUpon>themnhanvien.cs</DependentUpon>
+    </Compile>
     <Compile Include="hethong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +67,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="dsnhanvien.resx">
+      <DependentUpon>dsnhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="themnhanvien.resx">
+      <DependentUpon>themnhanvien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="hethong.resx">
       <DependentUpon>hethong.cs</DependentUpon>
     </EmbeddedResource>
