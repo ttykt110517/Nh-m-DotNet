@@ -14,8 +14,10 @@ create table TaiKhoan(
 	TaiKhoan varchar(20) unique,
 	MatKhau varchar(30) not null,
 	PhanQuyen int not null,
-	constraint fk_taikhoan_manv foreign key (MaNV) references NhanVien(MaNV)
+	constraint fk_taikhoan_manv foreign key (MaNV) references NhanVien(MaNV),
+	constraint pk_taikhoan primary key(MaNV,taikhoan)
 )
+
 create table PhieuLuong(
 	MaPL char(10) primary key,
 	MaNV char(10) not null,
