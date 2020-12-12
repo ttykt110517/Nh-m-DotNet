@@ -65,6 +65,19 @@ namespace formhethong
             // cbthangluong
             // 
             this.cbthangluong.FormattingEnabled = true;
+            this.cbthangluong.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"});
             this.cbthangluong.Location = new System.Drawing.Point(184, 124);
             this.cbthangluong.Name = "cbthangluong";
             this.cbthangluong.Size = new System.Drawing.Size(121, 33);

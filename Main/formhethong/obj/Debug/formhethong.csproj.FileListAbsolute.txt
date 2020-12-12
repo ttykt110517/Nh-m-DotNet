@@ -13,3 +13,4 @@ D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Deb
 D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.suanhanvien.resources
 D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.dsphieuluong.resources
 D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.themphieuluong.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.suaphieuluong.resources

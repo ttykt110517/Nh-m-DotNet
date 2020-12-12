@@ -31,7 +31,9 @@ namespace formhethong
 
         private void btthem_Click(object sender, EventArgs e)
         {
-
+            themphieuluong them = new themphieuluong();
+            them.MdiParent = this.MdiParent;
+            them.Show();
         }
     }
 }
