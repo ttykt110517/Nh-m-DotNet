@@ -26,3 +26,22 @@ D:\Form\dangnhap\obj\Debug\dangnhap.pdb
 D:\Form\dangnhap\obj\Debug\dangnhap.BanHang.resources
 D:\Form\dangnhap\obj\Debug\dangnhap.ThemChiTietPhieuNhapNL.resources
 D:\Form\dangnhap\obj\Debug\dangnhap.ThemNguyenLieu.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\bin\Debug\dangnhap.exe.config
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\bin\Debug\dangnhap.exe
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\bin\Debug\dangnhap.pdb
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\Taoform.csprojAssemblyReference.cache
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.BanHang.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.HoaDon.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.Form1.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.Hethong.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.Giaodien.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.DanhSachPhieuXuat.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.Properties.Resources.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.ThemChiTietPhieuNhapNL.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.DanhSachPhieuNhap.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.ThemCTPhieuXuat.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.ThemMon.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\Taoform.csproj.GenerateResource.cache
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\Taoform.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.exe
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Form 3\dangnhap\obj\Debug\dangnhap.pdb
