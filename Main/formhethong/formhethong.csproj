@@ -53,6 +53,24 @@
     <Compile Include="dsphieuluong.Designer.cs">
       <DependentUpon>dsphieuluong.cs</DependentUpon>
     </Compile>
+    <Compile Include="DSPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSPhieuNhap.Designer.cs">
+      <DependentUpon>DSPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemPhieuNhap.Designer.cs">
+      <DependentUpon>ThemPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemCTPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemCTPhieuNhap.Designer.cs">
+      <DependentUpon>ThemCTPhieuNhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="suanhanvien.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +109,9 @@
     <EmbeddedResource Include="dsnhanvien.resx">
       <DependentUpon>dsnhanvien.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DSPhieuNhap.resx">
+      <DependentUpon>DSPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="suanhanvien.resx">
       <DependentUpon>suanhanvien.cs</DependentUpon>
     </EmbeddedResource>
@@ -111,6 +132,12 @@
     </Compile>
     <EmbeddedResource Include="themphieuluong.resx">
       <DependentUpon>themphieuluong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemCTPhieuNhap.resx">
+      <DependentUpon>ThemCTPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemPhieuNhap.resx">
+      <DependentUpon>ThemPhieuNhap.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
