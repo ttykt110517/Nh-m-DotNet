@@ -46,7 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="capnhattaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhattaikhoan.Designer.cs">
+      <DependentUpon>capnhattaikhoan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Connection.cs" />
+    <Compile Include="danhsachtaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="danhsachtaikhoan.Designer.cs">
+      <DependentUpon>danhsachtaikhoan.cs</DependentUpon>
+    </Compile>
     <Compile Include="dsphieuluong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +103,18 @@
     <Compile Include="themphieuluong.Designer.cs">
       <DependentUpon>themphieuluong.cs</DependentUpon>
     </Compile>
+    <Compile Include="themtaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themtaikhoan.Designer.cs">
+      <DependentUpon>themtaikhoan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="capnhattaikhoan.resx">
+      <DependentUpon>capnhattaikhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="danhsachtaikhoan.resx">
+      <DependentUpon>danhsachtaikhoan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="dsphieuluong.resx">
       <DependentUpon>dsphieuluong.cs</DependentUpon>
     </EmbeddedResource>
@@ -120,6 +144,9 @@
     </Compile>
     <EmbeddedResource Include="themphieuluong.resx">
       <DependentUpon>themphieuluong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="themtaikhoan.resx">
+      <DependentUpon>themtaikhoan.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
