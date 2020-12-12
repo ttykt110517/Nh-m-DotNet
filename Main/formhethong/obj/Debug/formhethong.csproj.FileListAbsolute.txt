@@ -13,6 +13,7 @@ D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Deb
 D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.suanhanvien.resources
 D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.dsphieuluong.resources
 D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.themphieuluong.resources
+<<<<<<< HEAD
 C:\Users\PC\Documents\GitHub\Nh-m-DotNet\Main\formhethong\bin\Debug\formhethong.exe.config
 C:\Users\PC\Documents\GitHub\Nh-m-DotNet\Main\formhethong\bin\Debug\formhethong.exe
 C:\Users\PC\Documents\GitHub\Nh-m-DotNet\Main\formhethong\bin\Debug\formhethong.pdb
@@ -30,3 +31,6 @@ C:\Users\PC\Documents\GitHub\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.
 C:\Users\PC\Documents\GitHub\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.csproj.CoreCompileInputs.cache
 C:\Users\PC\Documents\GitHub\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.exe
 C:\Users\PC\Documents\GitHub\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.pdb
+=======
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.suaphieuluong.resources
+>>>>>>> 0a94d2b9413ae7190dd19f718850b57527543f99
