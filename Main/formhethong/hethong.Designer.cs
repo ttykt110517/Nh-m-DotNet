@@ -54,7 +54,8 @@ namespace formhethong
             this.báoCáoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1464, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(1098, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -65,27 +66,27 @@ namespace formhethong
             this.tinhluongToolStripMenuItem,
             this.taikhoanToolStripMenuItem});
             this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
-            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(91, 24);
+            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(74, 20);
             this.nhânViênToolStripMenuItem.Text = "Nhân Viên";
             // 
             // dsnhanvienToolStripMenuItem
             // 
             this.dsnhanvienToolStripMenuItem.Name = "dsnhanvienToolStripMenuItem";
-            this.dsnhanvienToolStripMenuItem.Size = new System.Drawing.Size(227, 26);
+            this.dsnhanvienToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
             this.dsnhanvienToolStripMenuItem.Text = "Danh sách nhân viên";
             this.dsnhanvienToolStripMenuItem.Click += new System.EventHandler(this.dsnhanvienToolStripMenuItem_Click);
             // 
             // tinhluongToolStripMenuItem
             // 
             this.tinhluongToolStripMenuItem.Name = "tinhluongToolStripMenuItem";
-            this.tinhluongToolStripMenuItem.Size = new System.Drawing.Size(227, 26);
+            this.tinhluongToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
             this.tinhluongToolStripMenuItem.Text = "Tính lương ";
             this.tinhluongToolStripMenuItem.Click += new System.EventHandler(this.tinhluongToolStripMenuItem_Click);
             // 
             // taikhoanToolStripMenuItem
             // 
             this.taikhoanToolStripMenuItem.Name = "taikhoanToolStripMenuItem";
-            this.taikhoanToolStripMenuItem.Size = new System.Drawing.Size(227, 26);
+            this.taikhoanToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
             this.taikhoanToolStripMenuItem.Text = "Tài khoản";
             // 
             // quảnLýKhoToolStripMenuItem
@@ -95,25 +96,26 @@ namespace formhethong
             this.xuatkhoToolStripMenuItem,
             this.nguyenlieuToolStripMenuItem});
             this.quảnLýKhoToolStripMenuItem.Name = "quảnLýKhoToolStripMenuItem";
-            this.quảnLýKhoToolStripMenuItem.Size = new System.Drawing.Size(101, 24);
+            this.quảnLýKhoToolStripMenuItem.Size = new System.Drawing.Size(83, 20);
             this.quảnLýKhoToolStripMenuItem.Text = "Quản lý kho";
             // 
             // nhapkhoToolStripMenuItem
             // 
             this.nhapkhoToolStripMenuItem.Name = "nhapkhoToolStripMenuItem";
-            this.nhapkhoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.nhapkhoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.nhapkhoToolStripMenuItem.Text = "Nhập kho";
+            this.nhapkhoToolStripMenuItem.Click += new System.EventHandler(this.nhapkhoToolStripMenuItem_Click);
             // 
             // xuatkhoToolStripMenuItem
             // 
             this.xuatkhoToolStripMenuItem.Name = "xuatkhoToolStripMenuItem";
-            this.xuatkhoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.xuatkhoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.xuatkhoToolStripMenuItem.Text = "Xuất kho";
             // 
             // nguyenlieuToolStripMenuItem
             // 
             this.nguyenlieuToolStripMenuItem.Name = "nguyenlieuToolStripMenuItem";
-            this.nguyenlieuToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.nguyenlieuToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.nguyenlieuToolStripMenuItem.Text = "Nguyên liệu";
             // 
             // mónToolStripMenuItem
@@ -121,29 +123,30 @@ namespace formhethong
             this.mónToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.dsmonToolStripMenuItem});
             this.mónToolStripMenuItem.Name = "mónToolStripMenuItem";
-            this.mónToolStripMenuItem.Size = new System.Drawing.Size(114, 24);
+            this.mónToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
             this.mónToolStripMenuItem.Text = "Quản lý menu";
             // 
             // dsmonToolStripMenuItem
             // 
             this.dsmonToolStripMenuItem.Name = "dsmonToolStripMenuItem";
-            this.dsmonToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.dsmonToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.dsmonToolStripMenuItem.Text = "Danh sách món";
             // 
             // báoCáoToolStripMenuItem
             // 
             this.báoCáoToolStripMenuItem.Name = "báoCáoToolStripMenuItem";
-            this.báoCáoToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
+            this.báoCáoToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.báoCáoToolStripMenuItem.Text = "Báo cáo";
             // 
             // hethong
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1464, 531);
+            this.ClientSize = new System.Drawing.Size(1098, 431);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "hethong";
             this.Text = "Form1";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
