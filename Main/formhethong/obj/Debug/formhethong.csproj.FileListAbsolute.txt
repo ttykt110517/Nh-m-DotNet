@@ -1,0 +1,15 @@
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\bin\Debug\formhethong.exe.config
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\bin\Debug\formhethong.exe
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\bin\Debug\formhethong.pdb
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.csprojAssemblyReference.cache
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.hethong.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.Properties.Resources.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.csproj.GenerateResource.cache
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.exe
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.pdb
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.dsnhanvien.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.themnhanvien.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.suanhanvien.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.dsphieuluong.resources
+D:\Program Files (x86)\Studying\DotNet\Team\Nh-m-DotNet\Main\formhethong\obj\Debug\formhethong.themphieuluong.resources
