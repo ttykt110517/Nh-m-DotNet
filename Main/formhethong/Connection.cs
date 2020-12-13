@@ -49,6 +49,8 @@ namespace formhethong
                 return false;
             }
         }
+       
+
         //Mô hình ngắt kết nối/////
         //Đổ dữ liệu từ CSDL -> DataAdapter -> DataTable
         //(DataSet-Client)
